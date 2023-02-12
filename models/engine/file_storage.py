@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 from models.review import Review
+from models.base_model import BaseModel
 import json
 
 
